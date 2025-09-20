@@ -24,7 +24,8 @@ Proyek ini menggunakan ESP32 untuk mengontrol beberapa LED melalui WebServer den
 ---
 
 ## Pinout
-- Komponen	Pin ESP32
+
+Komponen	Pin ESP32: 
 - LCD I2C SDA	GPIO 21
 - LCD I2C SCL	GPIO 22
 - LED Default	GPIO 2
